@@ -19,7 +19,7 @@
    }}\
 }",
 	"pref__general__FilterNonAnimatedElements":"false",
-	"viewStartMs":"-33.797468406682",
+	"viewStartMs":"2095.7329581555",
 	"pref__general__AutoKeyframePropertiesArmed":"true",
 	"symbol_stage":{
 		"element_${_l2}":{
@@ -58,22 +58,24 @@
 			"timelineColor3":"0x385063",
 			"animationEnabled":"true",
 			"timelineColor":"0x2f73ad"},
+		"element_${_p12}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"animationEnabled":"true",
+			"timelineColor":"0xeedf79"},
 		"element_${_p1}":{
 			"timelineColor2":"0x107faa",
 			"timelineColor3":"0x295a6d",
-			"animationEnabled":"true",
-			"timelineColor":"0x008dc8"},
-		"dummyStageParentHeight":"180px",
+			"timelineColor":"0x008dc8",
+			"animationEnabled":"false",
+			"invisible":"false"},
+		"dummyStageParentWidth":"300px",
 		"element_${__17}":{
 			"timelineColor2":"0x81aa62",
 			"timelineColor3":"0x5b6c4d",
 			"animationEnabled":"false",
 			"timelineColor":"0x91c767"},
-		"element_${_p2}":{
-			"timelineColor2":"0xba5b89",
-			"timelineColor3":"0x734a5f",
-			"animationEnabled":"true",
-			"timelineColor":"0xdb619d"},
+		"dummyStageParentHeight":"180px",
 		"defaultStageParentHeight":"180px",
 		"element_${_k1}":{
 			"timelineColor2":"0x1095d2",
@@ -91,16 +93,20 @@
 			"timelineColor2":"0xcbbd71",
 			"timelineColor3":"0x7b7652",
 			"timelineColor":"0xeedf79"},
-		"dummyStageParentWidth":"300px"},
-	"TransitionIdCounter":"66",
+		"element_${_p2}":{
+			"timelineColor2":"0xba5b89",
+			"timelineColor3":"0x734a5f",
+			"animationEnabled":"true",
+			"timelineColor":"0xdb619d"}},
+	"PreloadAudio":"auto",
 	"CompZoomFactor":"100",
 	"StageZoomFactor":"250",
-	"pixelsPerMs":"0.14794007467765",
+	"pixelsPerMs":"0.098967731920037",
+	"nextElementColorIndex":"2",
+	"viewStartY":"0",
 	"usedBOM":"false",
-	"PreloadAudio":"auto",
-	"stage-Default Timeline_mark_ms":"15250",
 	"ShowRulers":"false",
-	"stage-Default Timeline_playhead_ms":"0",
+	"stage-Default Timeline_playhead_ms":"14000",
 	"pref__general__GenerateSmoothTransitions":"true",
-	"viewStartY":"25",
-	"nextElementColorIndex":"14"}
+	"TransitionIdCounter":"83",
+	"stage-Default Timeline_mark_ms":"8000"}
