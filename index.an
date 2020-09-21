@@ -19,10 +19,14 @@
    }}\
 }",
 	"pref__general__FilterNonAnimatedElements":"false",
-	"viewStartMs":"-79.279877112904",
+	"viewStartMs":"-33.797468406682",
 	"pref__general__AutoKeyframePropertiesArmed":"true",
 	"symbol_stage":{
-		"dummyStageParentWidth":"300px",
+		"element_${_l2}":{
+			"timelineColor2":"0xd35d6e",
+			"timelineColor3":"0x7e4b52",
+			"animationEnabled":"true",
+			"timelineColor":"0xfb657a"},
 		"element_${_st}":{
 			"timelineColor2":"0x4fa275",
 			"timelineColor3":"0x456a55",
@@ -59,21 +63,17 @@
 			"timelineColor3":"0x295a6d",
 			"animationEnabled":"true",
 			"timelineColor":"0x008dc8"},
-		"element_${_p2}":{
-			"timelineColor2":"0xba5b89",
-			"timelineColor3":"0x734a5f",
-			"animationEnabled":"true",
-			"timelineColor":"0xdb619d"},
+		"dummyStageParentHeight":"180px",
 		"element_${__17}":{
 			"timelineColor2":"0x81aa62",
 			"timelineColor3":"0x5b6c4d",
 			"animationEnabled":"false",
 			"timelineColor":"0x91c767"},
-		"element_${_l2}":{
-			"timelineColor2":"0xd35d6e",
-			"timelineColor3":"0x7e4b52",
+		"element_${_p2}":{
+			"timelineColor2":"0xba5b89",
+			"timelineColor3":"0x734a5f",
 			"animationEnabled":"true",
-			"timelineColor":"0xfb657a"},
+			"timelineColor":"0xdb619d"},
 		"defaultStageParentHeight":"180px",
 		"element_${_k1}":{
 			"timelineColor2":"0x1095d2",
@@ -91,16 +91,16 @@
 			"timelineColor2":"0xcbbd71",
 			"timelineColor3":"0x7b7652",
 			"timelineColor":"0xeedf79"},
-		"dummyStageParentHeight":"180px"},
+		"dummyStageParentWidth":"300px"},
 	"TransitionIdCounter":"66",
 	"CompZoomFactor":"100",
-	"viewStartY":"9",
-	"pixelsPerMs":"0.063067706233694",
-	"ShowRulers":"false",
 	"StageZoomFactor":"250",
-	"stage-Default Timeline_mark_ms":"15250",
-	"nextElementColorIndex":"14",
-	"stage-Default Timeline_playhead_ms":"16000",
-	"pref__general__GenerateSmoothTransitions":"true",
+	"pixelsPerMs":"0.14794007467765",
+	"usedBOM":"false",
 	"PreloadAudio":"auto",
-	"usedBOM":"false"}
+	"stage-Default Timeline_mark_ms":"15250",
+	"ShowRulers":"false",
+	"stage-Default Timeline_playhead_ms":"0",
+	"pref__general__GenerateSmoothTransitions":"true",
+	"viewStartY":"25",
+	"nextElementColorIndex":"14"}
